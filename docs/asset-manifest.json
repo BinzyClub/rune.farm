@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ebb807.chunk.css",
+    "main.js": "/static/js/main.95853e8c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4d8ab5f9.js",
+    "static/js/2.0e212697.chunk.js": "/static/js/2.0e212697.chunk.js",
+    "static/js/3.f72f5221.chunk.js": "/static/js/3.f72f5221.chunk.js",
+    "static/js/4.3b6f5e26.chunk.js": "/static/js/4.3b6f5e26.chunk.js",
+    "static/js/5.7dc85841.chunk.js": "/static/js/5.7dc85841.chunk.js",
+    "static/js/6.2800394a.chunk.js": "/static/js/6.2800394a.chunk.js",
+    "static/js/7.f0cb9dda.chunk.js": "/static/js/7.f0cb9dda.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.0e212697.chunk.js.LICENSE.txt": "/static/js/2.0e212697.chunk.js.LICENSE.txt",
+    "static/js/3.f72f5221.chunk.js.LICENSE.txt": "/static/js/3.f72f5221.chunk.js.LICENSE.txt",
+    "static/js/4.3b6f5e26.chunk.js.LICENSE.txt": "/static/js/4.3b6f5e26.chunk.js.LICENSE.txt",
+    "static/js/6.2800394a.chunk.js.LICENSE.txt": "/static/js/6.2800394a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/sorc.aec7c8d6.gif",
+    "static/media/action.f5ab5f35.mp3": "/static/media/action.f5ab5f35.mp3",
+    "static/media/select.c8ffb6ab.mp3": "/static/media/select.c8ffb6ab.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d8ab5f9.js",
+    "static/js/2.0e212697.chunk.js",
+    "static/css/main.e1ebb807.chunk.css",
+    "static/js/main.95853e8c.chunk.js"
+  ]
+}
