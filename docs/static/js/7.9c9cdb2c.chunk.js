@@ -1,1 +1,0 @@
-(this["webpackJsonprune-interface"]=this["webpackJsonprune-interface"]||[]).push([[7],{1006:function(e,n){}}]);
