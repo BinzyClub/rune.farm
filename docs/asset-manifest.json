@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.12f4e526.chunk.css",
-    "main.js": "/static/js/main.6a54c223.chunk.js",
+    "main.js": "/static/js/main.6c9386ef.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.836b95d8.js",
-    "static/js/2.fe804c9b.chunk.js": "/static/js/2.fe804c9b.chunk.js",
+    "static/js/2.fbb6c6ce.chunk.js": "/static/js/2.fbb6c6ce.chunk.js",
     "static/js/3.6067a95b.chunk.js": "/static/js/3.6067a95b.chunk.js",
     "static/js/4.30f5e0f2.chunk.js": "/static/js/4.30f5e0f2.chunk.js",
     "static/js/5.6b3ba0ac.chunk.js": "/static/js/5.6b3ba0ac.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.fe804c9b.chunk.js.LICENSE.txt": "/static/js/2.fe804c9b.chunk.js.LICENSE.txt",
+    "static/js/2.fbb6c6ce.chunk.js.LICENSE.txt": "/static/js/2.fbb6c6ce.chunk.js.LICENSE.txt",
     "static/js/3.6067a95b.chunk.js.LICENSE.txt": "/static/js/3.6067a95b.chunk.js.LICENSE.txt",
     "static/js/4.30f5e0f2.chunk.js.LICENSE.txt": "/static/js/4.30f5e0f2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/tyrael.151fb006.gif",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.836b95d8.js",
-    "static/js/2.fe804c9b.chunk.js",
+    "static/js/2.fbb6c6ce.chunk.js",
     "static/css/main.12f4e526.chunk.css",
-    "static/js/main.6a54c223.chunk.js"
+    "static/js/main.6c9386ef.chunk.js"
   ]
 }
