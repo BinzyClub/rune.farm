@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.594b729f.chunk.css",
-    "main.js": "/static/js/main.b00c558a.chunk.js",
+    "main.js": "/static/js/main.f531e136.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.266f1ed3.js",
-    "static/js/2.ff9fdd7a.chunk.js": "/static/js/2.ff9fdd7a.chunk.js",
+    "static/js/2.12398fe7.chunk.js": "/static/js/2.12398fe7.chunk.js",
     "static/js/3.3d2d5adf.chunk.js": "/static/js/3.3d2d5adf.chunk.js",
     "static/js/4.d1107537.chunk.js": "/static/js/4.d1107537.chunk.js",
     "static/js/5.b2d4f5d7.chunk.js": "/static/js/5.b2d4f5d7.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.ff9fdd7a.chunk.js.LICENSE.txt": "/static/js/2.ff9fdd7a.chunk.js.LICENSE.txt",
+    "static/js/2.12398fe7.chunk.js.LICENSE.txt": "/static/js/2.12398fe7.chunk.js.LICENSE.txt",
     "static/js/3.3d2d5adf.chunk.js.LICENSE.txt": "/static/js/3.3d2d5adf.chunk.js.LICENSE.txt",
     "static/js/4.d1107537.chunk.js.LICENSE.txt": "/static/js/4.d1107537.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/ExocetReaperMedium.c0db6f63.woff",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.266f1ed3.js",
-    "static/js/2.ff9fdd7a.chunk.js",
+    "static/js/2.12398fe7.chunk.js",
     "static/css/main.594b729f.chunk.css",
-    "static/js/main.b00c558a.chunk.js"
+    "static/js/main.f531e136.chunk.js"
   ]
 }
