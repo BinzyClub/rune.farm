@@ -1,0 +1,129 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IArcaneRuneV1",
+  "sourceName": "src/IArcaneRuneV1.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+        }
+      ],
+      "name": "addBot",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+        }
+      ],
+      "name": "addExcluded",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_to",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "mint",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+        }
+      ],
+      "name": "removeBot",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+        }
+      ],
+      "name": "removeExcluded",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_vaultAddress",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "_charityAddress",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "_devAddress",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "_botAddress",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_vaultFee",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_charityFee",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_devFee",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_botFee",
+          "type": "uint256"
+        }
+      ],
+      "name": "setFeeInfo",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
